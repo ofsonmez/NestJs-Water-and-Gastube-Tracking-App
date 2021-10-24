@@ -1,6 +1,6 @@
 # Description
 
-- Water and gastube tracking system backend written with NestJs. I really enjoyed while I use Nest.
+- Water and gastube tracking system backend app written with NestJs. I really enjoyed while I use Nest.
 
 - For database specification you must change .env file.
 
